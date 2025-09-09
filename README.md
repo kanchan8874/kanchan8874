@@ -85,8 +85,8 @@
 
 - 🔭 Currently working on: [RockPaperScissors_Game](https://github.com/kanchan8874/RockPaperScissors_Game)
 - 👯 Collaborating on: [WEB-DEV](https://github.com/kanchan8874/WEB-DEV)
-- 👨‍💻 My Portfolio: [portfolio2-kanchan-kushwaha-projects.vercel.app](https://portfolio2-kanchan-kushwahas-projects.vercel.app/)
-- 📄 Resume: [Google Drive](https://drive.google.com/file/d/1gF4PNqog89WSgRKalNzHWY0kBVDxvTH7/view?usp=drivesdk)
+- 👨‍💻 My Portfolio: [Portfolio](https://portfolio2-kanchan-kushwahas-projects.vercel.app/)
+- 📄 Resume: [Resume](https://drive.google.com/file/d/1gF4PNqog89WSgRKalNzHWY0kBVDxvTH7/view?usp=drivesdk)
 
 ---
 
